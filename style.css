@@ -1,0 +1,18 @@
+body {
+  background-color: pink;
+}
+h1 {
+  color: red;
+  margin-left: 40px;
+}
+p {
+  margin-left: 40px;
+}
+.img_holder img {
+  width: 200px;
+  border-radius: 40px;
+  filter: drop-shadow(2px 4px 8px #575757);
+  margin-left: 40px;
+  margin-top: 5px;
+  margin-bottom: 10PX;
+}
